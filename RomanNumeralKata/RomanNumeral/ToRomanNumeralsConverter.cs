@@ -1,12 +1,11 @@
 ﻿using System;
 
-namespace RomanNumeral
+namespace RomanNumeral;
+
+public class ToRomanNumeralsConverter
 {
-    public class ToRomanNumeralsConverter
+    public string Convert(int arabic)
     {
-        public string Convert(int arabic)
-        {
-            throw new NotImplementedException();
-        }
+        throw new NotImplementedException();
     }
 }
